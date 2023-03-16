@@ -1,2 +1,2 @@
-# kabbee-miuG1
-personal development intern at alazar @ kabbee
+# kabbee-G1
+Personal project
